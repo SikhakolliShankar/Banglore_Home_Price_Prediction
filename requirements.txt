@@ -1,0 +1,6 @@
+flask
+numpy
+pandas
+Jinja2
+matplotlib
+scikit-learn
